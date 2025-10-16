@@ -1,2 +1,14 @@
-Human Iris Detection and Feature Localization using Generalized Hough Transform (GHT)
-This repository implements a complete pipeline for human iris detection using Generalized Hough Transform (GHT), including spatial matched filtering, ellipse detection, and feature collation. The project also demonstrates vanishing point detection for enhanced object localization in eye images.
+Project Overview
+Explain the problem of iris detection, why GHT is used, and how the pipeline works.
+
+Pipeline Steps
+
+Preprocessing
+
+Matched Filtering
+
+Ellipse Detection with GHT
+
+Feature Collation
+
+Vanishing Points Detection
